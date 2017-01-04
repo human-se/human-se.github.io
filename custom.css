@@ -1,0 +1,132 @@
+.huge-main-pic {
+	border-style: solid;
+    border-width: 5px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    border-color: #5d5d5d;
+}
+
+a.big-link-1 {
+	display: inline-block;
+    padding: 5px 22px;
+    background: #fff;
+    color: #430084;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size:40px;
+   /* -moz-box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    -webkit-box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    box-shadow: 0 1px 25px 0 rgba(0,0,0,.05) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;*/
+}
+
+a.big-link-1:hover {
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+}
+
+a.big-link-1:active {
+    -moz-box-shadow: 0 5px 10px 0 rgba(0,0,0,.15) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    -webkit-box-shadow: 0 5px 10px 0 rgba(0,0,0,.15) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,.15) inset, 0 -1px 25px 0 rgba(0,0,0,.05) inset;
+}
+/*
+.navbar-header {
+	padding-top: 3px;
+}
+*/
+.testimonial-text {
+	color: #5d5d5d;
+	font-style: none;
+	text-align: left;
+	line-height: 1.5em;
+	padding-left: 50px;
+/*	display: inline-block;*/
+}
+
+.testimonial-text p {
+  line-height: 1em;
+}
+
+.logo {
+  padding-top: 3px;
+}
+
+.name {
+  font-size: 40px;
+  color: #000;
+  padding-top: 15px;
+  padding-left: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+.name p {
+	margin-top: -10px;
+	font-size: 12px;
+	color: #888;
+}
+.presentation-container {
+	padding-bottom: 50px;
+}
+.testimonial-image {
+	padding-right: 30px;
+/*	display: inline-block;*/
+}
+
+@media screen and (max-width: 767px) {
+    .logo {
+      align-content: center;
+    }
+    .name {
+      padding-top: 7px;
+      font-size:35px;
+    }
+    .logo img {
+      height: 75px;
+    }
+    .name p {
+      font-size: 10px;
+    }
+}
+@media screen and (min-width: 370px) and (max-width: 439px) {
+    .logo {
+      align-content: center;
+    }
+    .name {
+      padding-top: 7px;
+      padding-left: 13px;
+      font-size:30px;
+    }
+    .logo img {
+      height: 50px;
+      padding-top: 11px;
+    }
+    .name p {
+      margin-top: -7px;
+      font-size: 9px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 369px) {
+    .logo {
+      align-content: center;
+    }
+    .name {
+      text-align: center;
+      padding-top: 7px;
+      padding-left: 13px;
+      font-size:26px;
+    }
+    .logo img {
+      margin-left: 45px;
+      height: 50px;
+      padding-top: 11px;
+    }
+    .name p {
+      width: 80%;
+      margin-top: -7px;
+      font-size: 9px;
+      padding-left: 55px;
+    }
+}
+
+.page-title-container {
+  padding: 15px 0;
+}
