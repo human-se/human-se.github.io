@@ -1,10 +1,10 @@
-<div style="max-width: 350px; margin: 0 20px 0 0; float: left;"><img src="./human-se-logo.png" alt="Human-SE Logo" style="border-radius: 10px"></div>
-<div style="min-width: 275px; margin: 20px 0 0 0; padding: 20px 0 0 0; display: table"></div>
+<div style="max-width: 200px; margin: 0 20px 0 0; float: left;"><img src="./human-se-logo.png" alt="Human-SE Logo" style="border-radius: 10px"></div>
+<div style="min-width: 475px; margin: 20px 0 0 0; padding: 20px 0 0 0; display: table"></div>
 
 
 **Human-Oriented Software Engineering Lab**
 
-[Scott Fleming](https://sdflem.github.io/), Director
+[Scott Fleming](https://sdflem.github.io/), Director  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
 [University of Memphis](http://www.memphis.edu/)  
 Memphis, TN 38152
