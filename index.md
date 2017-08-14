@@ -4,7 +4,6 @@
 
 **Human-Oriented Software Engineering Lab**
 
-[Scott Fleming](https://sdflem.github.io/), Director  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
 [University of Memphis](http://www.memphis.edu/)  
 Memphis, TN 38152
