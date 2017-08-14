@@ -1,4 +1,4 @@
-<div style="max-width: 400px; margin: 0 20px 0 0; float: left;"><img src="./human-se-logo.png" alt="Human-SE Logo" style="border-radius: 10px"></div>
+<div style="max-width: 350px; margin: 0 20px 0 0; float: left;"><img src="./human-se-logo.png" alt="Human-SE Logo" style="border-radius: 10px"></div>
 <div style="min-width: 275px; margin: 20px 0 0 0; padding: 20px 0 0 0; display: table"></div>
 
 
@@ -17,6 +17,7 @@ Located: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 215
 
 ## About Us
 
+*Coming soon!*
 
 
 ## Find Out More
