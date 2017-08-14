@@ -26,7 +26,7 @@ Located: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 215
 
 
 <div style="text-align: center; font-size: .75em; border-top: 1px solid #eaecef; margin-top: 32px">
-&copy; [Scott D. Fleming](https://sdflem.github.io/) 2017 &bull; Made with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>
+&copy; <a href="https://sdflem.github.io/">Scott D. Fleming</a> 2017 &bull; Made with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>
 </div>
 
 
