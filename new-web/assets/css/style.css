@@ -361,6 +361,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #430084
     padding-bottom: 20px;
     background: #f8f8f8;
     border-bottom: 2px solid #430084;
+
 }
 
 .work:hover img {
@@ -387,6 +388,19 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #430084
     font-weight: bold;
     text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
+    
+}
+
+.work h2 {
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 12px;
+    color: #430084;
+    font-weight: bold;
+    text-transform: uppercase;
+    
 }
 
 .work p {
@@ -394,6 +408,12 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #430084
     padding-right: 15px;
     line-height: 24px;
     font-style: italic;
+    
+}
+
+.work img{
+    max-width: 300px;
+    width: 25%;
 }
 
 
